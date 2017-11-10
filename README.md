@@ -5,6 +5,8 @@ A quick overview of tools that I've found to help get a great job done more easi
 ### Environment
 * [Homebrew](https://brew.sh) is the missing package manager for macOS.
 * [CocoaPods](https://cocoapods.org) is a third-party dependency management tool for iOS applications.
+* [rbenv](https://github.com/rbenv/rbenv) is a Ruby environment manager, similar to RVM. It allows for easy grooming of global and local Ruby enviornments.
+* [Fastlane](https://fastlane.tools) is a mobile application deployment tool that assists in quick delivery of both iOS and Android applications.
 
 ### iOS Tools
 * [Xcode and related development tools](https://developer.apple.com/xcode/)
